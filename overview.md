@@ -11,7 +11,7 @@ Informal recipe:
 
 Pursuing a goal: i.e. 200 x 200 pixel couture image
 Qs: How do I fix problems when they happen? ("Debugging")
-Resources: "How to Program" | Dr. Racket | Dr. Barnes | Peers ...
+Resources: "How to Program" | Dr. Racket | Mr. Pena | Peers ...
 Environment: IDE = Dr. Racket
 Plan your journey: HW # 1
 Go forth: Nulla dia sine linea = No day without a line... of code!
