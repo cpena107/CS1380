@@ -1,12 +1,12 @@
 # CSCI 1380 - 01 & 07 Computer Science I
 
-<https://github.com/texbarnes/CS1380>
+<https://github.com/cpena107/CS1380>
 
 Section 01 Lecture: MW 12:15 pm - 1:30 pm (2.110)
-Attendance: https://goo.gl/forms/02H8ZOtLESjxJgEG3
+Attendance: https://goo.gl/forms/cawe95JOu3Dp67Wq2
 
 Section 07 Lecture: MW 1:40 pm - 2:55 pm (2.110)
-Attendance: https://goo.gl/forms/FhxTcErTU0W3rzA43
+Attendance: https://goo.gl/forms/9CsZrrdulyHCigQ32
 
 There's more to Computer Science than programming, but programming is a great way to learn about how computers "think", and how we can use them as tools to solve problems. In this course, we'll learn how to analyze real-world problems, identify the parts of the problem that a computer could solve much more efficiently than we can, and create a program, which is a set of instructions that tell a computer what to do.
 
@@ -55,15 +55,13 @@ We'll start the course learning the recipe using the programming language Racket
 
 ## Instructor
 
-Dr. Michael C. Barnes
-<michael.barnes01@utrgv.edu>
+Mr. Carlos A. Pena
+<carlos.penacaballero01@utrgv.edu>
 
 ### Office hours
 
-MW 8:00 am - 10:00 am  
-EENGR 3.295
-
-If lost, ask for "Lisa"
+TBA
+EENGR 3.273
 
 ## Objectives
 
