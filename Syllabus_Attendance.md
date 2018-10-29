@@ -60,7 +60,7 @@ Mr. Carlos A. Pena
 
 ### Office hours
 
-MW 3:00-5:00 (or by appointment)
+TR 3:00-5:00 (or by appointment)
 EENGR 3.273
 
 ## Objectives
