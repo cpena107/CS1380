@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int main() 
 {
 	//step 0: variables and stuff
 	int numExams;
