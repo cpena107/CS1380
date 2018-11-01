@@ -36,7 +36,7 @@ int main() {
 	// step 3: Using your random number generator and decide the answer to give the user
 	// HINT: answer = rand() % ? + 1
 
-	// step 4: Wrap your entire code (from step 2) in a while loop that after each question/answer
+	// BONUS: Wrap your entire code (from step 2) in a while loop that after each question/answer
 	//			it will ask the user (y/n) if he/she wants to ask another question.
 
 	// BONUS: Save every question+answer in a file called "MyMagicEightBall.txt"
