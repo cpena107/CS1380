@@ -10,7 +10,7 @@ int main()
 	/*
 	// Exercise 1 example
 	// declare a variable to hold a character and initialize it
-	// to the letter ‘U’
+	// to the letter â€˜Uâ€™
 	// data type of character; name for the variable; assign the value 'U'
 	char someCharacter = 'U'; // this line assigns 'U' to someCharacter
 
@@ -28,7 +28,7 @@ int main()
 	// (in this cas someCharacter)
 	cin >> someCharacter;
 
-	// if the user typed ‘E’ print "Excellent. "
+	// if the user typed â€˜Eâ€™ print "Excellent. "
 	// when declaring an if you need a statement to be true 
 	// between the ( ), so the code can run
 	// e and E are not equal
@@ -65,7 +65,7 @@ int main()
 	// counter to check how many time the loop ran
 	int counter = 0;
 	while (i < 15) {
-		// += means i = i + 2
+		// += means i = i + 3
 		i += 3;
 		counter += 1;
 
