@@ -43,11 +43,11 @@ if (gpa >= 2.0) {
     if (gpa >= 3.9){
         cout << "Dean's Honor List" << endl;
     }
-    else {
+}
+else {
         cout << "The GPA is below the graduation "
         << "requirements. " << endl
         << "See your academic advisor." << endl;
-    }
 }
 ```
         No output
