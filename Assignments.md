@@ -6,13 +6,15 @@ Quiz on functions! 11-12-2018: https://goo.gl/forms/ZhLFAS5J4I9LvpU52
 
 Exam 2 Review quiz: 11-19-2018: https://goo.gl/forms/rsMufuWkmwj5lBW62
 
+Assignment C++ 2 11-26-2018: https://goo.gl/qu2tMh
+
 Extra Credit Assignment:
 
 ## The  Problem
 Write  a  program  to  do  fractional  arithmetic. To  keep  it  a  little  shorter,  we’ll  just  do  the  subtraction  and  
 multiplication  operations. It  should  also  reduce  the  answer  to  its  lowest  form (e.g.  3/9  should  be  1/3).  It  should not print silly things like 0/5 (should just be 0) or 7/1 (should just be 7). The user should be allowed to enter any number of problems. 
 
-A sample dialogue follows. The user responses are in bold:
+A sample dialogue follows. The user responses are in ** **:
 
     Fractional Arithmetic Program 
   
