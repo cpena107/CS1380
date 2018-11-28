@@ -8,6 +8,8 @@ Exam 2 Review quiz: 11-19-2018: https://goo.gl/forms/rsMufuWkmwj5lBW62
 
 Assignment C++ 2 11-26-2018: https://goo.gl/qu2tMh
 
+Quiz on Arrays 11-28-2018: https://goo.gl/forms/VTlt17mIex9s0Tev1
+
 Extra Credit Assignment:
 
 ## The  Problem
