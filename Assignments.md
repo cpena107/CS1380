@@ -10,7 +10,7 @@ Assignment C++ 2 11-26-2018: https://goo.gl/qu2tMh
 
 Quiz on Arrays 11-28-2018: https://goo.gl/forms/VTlt17mIex9s0Tev1
 
-Extra Credit Assignment:
+Extra Credit Assignment (worth up to 10 pts overall):
 
 ## The  Problem
 Write  a  program  to  do  fractional  arithmetic. To  keep  it  a  little  shorter,  we’ll  just  do  the  subtraction  and  
