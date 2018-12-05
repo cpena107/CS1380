@@ -10,6 +10,8 @@ Assignment C++ 2 11-26-2018: https://goo.gl/qu2tMh
 
 Quiz on Arrays 11-28-2018: https://goo.gl/forms/VTlt17mIex9s0Tev1
 
+Exam Review (worth nothing): https://goo.gl/forms/iDbuhHgWklTJDnHo2
+
 Extra Credit Assignment (worth up to 10 pts overall) (Due 12/12):
 
 ## The  Problem
